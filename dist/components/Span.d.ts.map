@@ -1,0 +1,1 @@
+{"version":3,"file":"Span.d.ts","sourceRoot":"","sources":["../../src/components/Span.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,MAAM,OAAO,CAAC;AAC1B,OAAO,EAAE,eAAe,EAAE,MAAM,eAAe,CAAC;AAGhD,KAAK,SAAS,GAAG,eAAe,GAAG,KAAK,CAAC,cAAc,CAAC,eAAe,CAAC,CAAC;AAEzE,QAAA,MAAM,IAAI,EAAE,KAAK,CAAC,EAAE,CAAC,SAAS,CAW7B,CAAC;AAEF,eAAe,IAAI,CAAC"}

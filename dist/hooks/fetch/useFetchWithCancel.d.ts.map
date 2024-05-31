@@ -1,0 +1,1 @@
+{"version":3,"file":"useFetchWithCancel.d.ts","sourceRoot":"","sources":["../../../src/hooks/fetch/useFetchWithCancel.tsx"],"names":[],"mappings":"AAEA;;;;;;;;;;;GAWG;AACH,QAAA,MAAM,kBAAkB,WACjB,MAAM,KACV;IACD,IAAI,EAAE,CAAC,GAAG,IAAI,CAAC;IACf,OAAO,EAAE,OAAO,CAAC;IACjB,KAAK,EAAE,KAAK,GAAG,IAAI,CAAC;IACpB,MAAM,EAAE,MAAM,IAAI,CAAC;CAkCpB,CAAC;AAEF,eAAe,kBAAkB,CAAC"}

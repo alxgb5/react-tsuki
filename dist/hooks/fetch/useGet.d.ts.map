@@ -1,0 +1,1 @@
+{"version":3,"file":"useGet.d.ts","sourceRoot":"","sources":["../../../src/hooks/fetch/useGet.tsx"],"names":[],"mappings":"AAEA;;;;;;;;;GASG;AACH,QAAA,MAAM,MAAM,WACL,MAAM,KACV;IAAE,IAAI,EAAE,CAAC,GAAG,IAAI,CAAC;IAAC,OAAO,EAAE,OAAO,CAAC;IAAC,KAAK,EAAE,KAAK,GAAG,IAAI,CAAA;CA2BzD,CAAC;AAEF,eAAe,MAAM,CAAC"}
