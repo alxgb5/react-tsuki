@@ -1,1 +1,0 @@
-{"version":3,"file":"usePost.d.ts","sourceRoot":"","sources":["../../../src/hooks/fetch/usePost.tsx"],"names":[],"mappings":"AAEA;;;;;;;;;;;;GAYG;AACH,QAAA,MAAM,OAAO,cACN,MAAM,KACV;IACD,QAAQ,EAAE,CAAC,IAAI,EAAE,CAAC,KAAK,QAAQ,IAAI,CAAC,CAAC;IACrC,QAAQ,EAAE,CAAC,GAAG,IAAI,CAAC;IACnB,OAAO,EAAE,OAAO,CAAC;IACjB,KAAK,EAAE,KAAK,GAAG,IAAI,CAAC;CAoCrB,CAAC;AAEF,eAAe,OAAO,CAAC"}

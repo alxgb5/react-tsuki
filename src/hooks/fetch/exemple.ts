@@ -1,5 +1,5 @@
 // import React from "react";
-// import { useGet, usePost, useDelete, usePut, usePatch } from "tsui-kit/hooks";
+// import { useGet, usePost, useDelete, usePut, usePatch } from "react-tsuki/hooks";
 
 // const MyComponent: React.FC = () => {
 //   const {

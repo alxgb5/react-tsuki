@@ -1,1 +1,0 @@
-{"version":3,"file":"List.d.ts","sourceRoot":"","sources":["../../src/components/List.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,MAAM,OAAO,CAAC;AAE1B,OAAO,EAAE,eAAe,EAAE,MAAM,eAAe,CAAC;AAEhD,KAAK,SAAS,GAAG,eAAe,GAAG,KAAK,CAAC,cAAc,CAAC,gBAAgB,CAAC,CAAC;AAe1E,KAAK,aAAa,GAAG,eAAe,GAAG,KAAK,CAAC,cAAc,CAAC,aAAa,CAAC,CAAC;;;;;AAmB3E,wBAAkC"}

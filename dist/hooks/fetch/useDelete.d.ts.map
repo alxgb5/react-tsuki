@@ -1,1 +1,0 @@
-{"version":3,"file":"useDelete.d.ts","sourceRoot":"","sources":["../../../src/hooks/fetch/useDelete.tsx"],"names":[],"mappings":"AAEA;;;;;;;;;;;GAWG;AACH,QAAA,MAAM,SAAS,WACR,MAAM,KACV;IACD,UAAU,EAAE,MAAM,QAAQ,IAAI,CAAC,CAAC;IAChC,QAAQ,EAAE,CAAC,GAAG,IAAI,CAAC;IACnB,OAAO,EAAE,OAAO,CAAC;IACjB,KAAK,EAAE,KAAK,GAAG,IAAI,CAAC;CA4BrB,CAAC;AAEF,eAAe,SAAS,CAAC"}

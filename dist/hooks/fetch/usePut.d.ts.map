@@ -1,1 +1,0 @@
-{"version":3,"file":"usePut.d.ts","sourceRoot":"","sources":["../../../src/hooks/fetch/usePut.tsx"],"names":[],"mappings":"AAEA;;;;;;;;;;;;GAYG;AACH,QAAA,MAAM,MAAM,cACL,MAAM,KACV;IACD,OAAO,EAAE,CAAC,IAAI,EAAE,CAAC,KAAK,QAAQ,IAAI,CAAC,CAAC;IACpC,QAAQ,EAAE,CAAC,GAAG,IAAI,CAAC;IACnB,OAAO,EAAE,OAAO,CAAC;IACjB,KAAK,EAAE,KAAK,GAAG,IAAI,CAAC;CAoCrB,CAAC;AAEF,eAAe,MAAM,CAAC"}
