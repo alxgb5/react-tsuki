@@ -1,6 +1,7 @@
 ![react-tsuki](https://img.shields.io/badge/React-Component%20Library-blue)
 ![react-tsuki](https://img.shields.io/badge/TypeScript-Ready-brightgreen)
 ![react-tsuki](https://img.shields.io/badge/License-MIT-yellow)
+![react-tsuki](https://github.com//alxgb5/react-tsuki/workflows/CI%20for%20Pull%20Requests/badge.svg)
 
 ## Introduction
 
