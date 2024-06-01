@@ -1,0 +1,1 @@
+{"version":3,"file":"useFetchInterval.d.ts","sourceRoot":"","sources":["../../../src/hooks/fetch/useFetchInterval.tsx"],"names":[],"mappings":"AAEA;;;;;;;GAOG;AACH,QAAA,MAAM,gBAAgB,WACf,MAAM,YACD,MAAM,KACf;IAAE,IAAI,EAAE,CAAC,GAAG,IAAI,CAAC;IAAC,OAAO,EAAE,OAAO,CAAC;IAAC,KAAK,EAAE,KAAK,GAAG,IAAI,CAAA;CAqCzD,CAAC;AAEF,eAAe,gBAAgB,CAAC"}

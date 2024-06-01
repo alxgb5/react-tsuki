@@ -1,6 +1,6 @@
 {
   "name": "react-tsuki",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "A versatile React component library with utility hooks and functions, built with TypeScript.",
   "type": "module",
   "main": "dist/index.cjs.js",
@@ -65,9 +65,9 @@
     "typescript": "^5.4.5"
   },
   "husky": {
-  "hooks": {
-    "pre-commit": "lint-staged"
-  }
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
   },
   "lint-staged": {
     "src/**/*.{ts,tsx}": [

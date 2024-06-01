@@ -1,0 +1,1 @@
+{"version":3,"file":"useRetryFetch.d.ts","sourceRoot":"","sources":["../../../src/hooks/fetch/useRetryFetch.tsx"],"names":[],"mappings":"AAEA;;;;;;;;;;;;GAYG;AACH,QAAA,MAAM,aAAa,WACZ,MAAM,YACF,MAAM,KACd;IACD,IAAI,EAAE,CAAC,GAAG,IAAI,CAAC;IACf,OAAO,EAAE,OAAO,CAAC;IACjB,KAAK,EAAE,KAAK,GAAG,IAAI,CAAC;IACpB,KAAK,EAAE,MAAM,IAAI,CAAC;CAgCnB,CAAC;AAEF,eAAe,aAAa,CAAC"}

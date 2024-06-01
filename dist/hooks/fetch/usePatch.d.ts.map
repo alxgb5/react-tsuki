@@ -1,0 +1,1 @@
+{"version":3,"file":"usePatch.d.ts","sourceRoot":"","sources":["../../../src/hooks/fetch/usePatch.tsx"],"names":[],"mappings":"AAEA;;;;;;;;;;;;GAYG;AACH,QAAA,MAAM,QAAQ,cACP,MAAM,KACV;IACD,SAAS,EAAE,CAAC,IAAI,EAAE,CAAC,KAAK,QAAQ,IAAI,CAAC,CAAC;IACtC,QAAQ,EAAE,CAAC,GAAG,IAAI,CAAC;IACnB,OAAO,EAAE,OAAO,CAAC;IACjB,KAAK,EAAE,KAAK,GAAG,IAAI,CAAC;CAoCrB,CAAC;AAEF,eAAe,QAAQ,CAAC"}

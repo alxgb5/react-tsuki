@@ -1,0 +1,1 @@
+{"version":3,"file":"useFetchOnMount.d.ts","sourceRoot":"","sources":["../../../src/hooks/fetch/useFetchOnMount.tsx"],"names":[],"mappings":"AAEA;;;;;;;;GAQG;AACH,QAAA,MAAM,eAAe,WACd,MAAM,KACV;IAAE,IAAI,EAAE,CAAC,GAAG,IAAI,CAAC;IAAC,OAAO,EAAE,OAAO,CAAC;IAAC,KAAK,EAAE,KAAK,GAAG,IAAI,CAAA;CA0BzD,CAAC;AAEF,eAAe,eAAe,CAAC"}
