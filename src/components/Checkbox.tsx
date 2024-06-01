@@ -1,15 +1,11 @@
-import React from "react";
-import { StyledComponent } from "../core/types";
-import { css } from "@emotion/css";
+import React from 'react';
+import { StyledComponent } from '../core/types';
+import { css } from '@emotion/css';
 
-type CheckboxProps = StyledComponent &
+type CheckboxProps = Omit<StyledComponent, 'children'> &
   React.InputHTMLAttributes<HTMLInputElement>;
 
-const Checkbox: React.FC<CheckboxProps> = ({
-  sx,
-  children,
-  ...rest
-}: CheckboxProps) => {
+const Checkbox: React.FC<CheckboxProps> = ({ sx, ...rest }: CheckboxProps) => {
   return (
     <input
       type="checkbox"

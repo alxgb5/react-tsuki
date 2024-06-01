@@ -1,4 +1,4 @@
-import { useState, useRef, useEffect } from "react";
+import { useState, useRef, useEffect } from 'react';
 
 /**
  * Custom hook that tracks whether an element is being hovered over.
@@ -16,12 +16,12 @@ const useHover = <T extends HTMLElement>(): [React.RefObject<T>, boolean] => {
 
     const node = ref.current;
     if (node) {
-      node.addEventListener("mouseover", handleMouseOver);
-      node.addEventListener("mouseout", handleMouseOut);
+      node.addEventListener('mouseover', handleMouseOver);
+      node.addEventListener('mouseout', handleMouseOut);
 
       return () => {
-        node.removeEventListener("mouseover", handleMouseOver);
-        node.removeEventListener("mouseout", handleMouseOut);
+        node.removeEventListener('mouseover', handleMouseOver);
+        node.removeEventListener('mouseout', handleMouseOut);
       };
     }
   }, [ref]);

@@ -1,4 +1,4 @@
-import { useState, useCallback } from "react";
+import { useState, useCallback } from 'react';
 
 /**
  * Custom hook for making DELETE requests.
@@ -34,7 +34,7 @@ const useDelete = <T,>(
     setError(null);
     try {
       const res = await fetch(url, {
-        method: "DELETE",
+        method: 'DELETE',
       });
       const result = await res.json();
       setResponse(result);

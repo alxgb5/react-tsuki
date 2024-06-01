@@ -1,4 +1,4 @@
-import { useState, useCallback } from "react";
+import { useState, useCallback } from 'react';
 
 /**
  * Custom hook for making PATCH requests.
@@ -37,9 +37,9 @@ const usePatch = <T, U>(
       setError(null);
       try {
         const res = await fetch(url, {
-          method: "PATCH",
+          method: 'PATCH',
           headers: {
-            "Content-Type": "application/json",
+            'Content-Type': 'application/json',
           },
           body: JSON.stringify(data),
         });

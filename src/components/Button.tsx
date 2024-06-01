@@ -1,6 +1,6 @@
-import React from "react";
-import { css } from "@emotion/css";
-import { StyledComponent } from "../core/types";
+import React from 'react';
+import { css } from '@emotion/css';
+import { StyledComponent } from '../core/types';
 
 type ButtonProps = StyledComponent &
   React.ButtonHTMLAttributes<HTMLButtonElement>;

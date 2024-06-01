@@ -1,10 +1,11 @@
-import React from "react";
-import { StyledComponent } from "../core/types";
-import { css } from "@emotion/css";
+import React from 'react';
+import { StyledComponent } from '../core/types';
+import { css } from '@emotion/css';
 
-type RadioProps = StyledComponent & React.InputHTMLAttributes<HTMLInputElement>;
+type RadioProps = Omit<StyledComponent, 'children'> &
+  React.InputHTMLAttributes<HTMLInputElement>;
 
-const Radio: React.FC<RadioProps> = ({ sx, children, ...rest }: RadioProps) => {
+const Radio: React.FC<RadioProps> = ({ sx, ...rest }: RadioProps) => {
   return (
     <input
       type="radio"

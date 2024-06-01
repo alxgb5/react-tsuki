@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState, useEffect } from 'react';
 
 /**
  * Custom hook for making fetch requests with the ability to cancel the request.
@@ -31,12 +31,12 @@ const useFetchWithCancel = <T,>(
       try {
         const response = await fetch(url, { signal: controller.signal });
         if (!response.ok) {
-          throw new Error("Network response was not ok");
+          throw new Error('Network response was not ok');
         }
         const result = await response.json();
         setData(result);
       } catch (err: any) {
-        if (err.name !== "AbortError") {
+        if (err.name !== 'AbortError') {
           setError(err);
         }
       } finally {
