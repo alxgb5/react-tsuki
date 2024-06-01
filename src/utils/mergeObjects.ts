@@ -10,10 +10,10 @@ const mergeObjects = <T>(...objects: T[]): T => {
    * @param obj - The value to check.
    * @returns True if the value is an object, false otherwise.
    */
-  const isObject = (obj: any) => obj && typeof obj === "object";
+  const isObject = (obj: any) => obj && typeof obj === 'object';
 
   return objects.reduce((prev, obj) => {
-    Object.keys(obj as {}).forEach((key) => {
+    Object.keys(obj as object).forEach((key) => {
       const pVal = (prev as any)[key];
       const oVal = (obj as any)[key];
 

@@ -1,4 +1,4 @@
-import { useState, useCallback } from "react";
+import { useState, useCallback } from 'react';
 
 /**
  * A custom hook that provides a boolean state value and a function to toggle the state value.

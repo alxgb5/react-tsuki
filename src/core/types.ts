@@ -1,5 +1,5 @@
-import { CSSInterpolation } from "@emotion/css";
-import { PropsWithChildren } from "react";
+import { CSSInterpolation } from '@emotion/css';
+import { PropsWithChildren } from 'react';
 
 /**
  * Represents a styled component.

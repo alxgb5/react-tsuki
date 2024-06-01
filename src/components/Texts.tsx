@@ -1,6 +1,6 @@
-import React from "react";
-import { StyledComponent } from "../core/types";
-import { css } from "@emotion/css";
+import React from 'react';
+import { StyledComponent } from '../core/types';
+import { css } from '@emotion/css';
 
 // Path: src/components/Paragraph.tsx
 type ParagraphProps = StyledComponent &
@@ -25,7 +25,7 @@ const Paragraph: React.FC<ParagraphProps> = ({
 
 // Path: src/components/Heading.tsx
 type HeadingProps = {
-  variant: "h1" | "h2" | "h3" | "h4" | "h5" | "h6";
+  variant: 'h1' | 'h2' | 'h3' | 'h4' | 'h5' | 'h6';
 } & StyledComponent &
   React.HTMLAttributes<HTMLHeadingElement>;
 

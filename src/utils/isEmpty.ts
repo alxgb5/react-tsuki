@@ -6,7 +6,7 @@
 const isEmpty = (value: any): boolean => {
   if (Array.isArray(value)) {
     return value.length === 0;
-  } else if (value && typeof value === "object") {
+  } else if (value && typeof value === 'object') {
     return Object.keys(value).length === 0;
   } else {
     return !value;

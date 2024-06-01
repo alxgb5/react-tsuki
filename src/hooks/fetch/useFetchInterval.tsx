@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from "react";
+import { useState, useEffect, useRef } from 'react';
 
 /**
  * Custom hook for fetching data at a specified interval.
@@ -23,7 +23,7 @@ const useFetchInterval = <T,>(
       try {
         const response = await fetch(url);
         if (!response.ok) {
-          throw new Error("Network response was not ok");
+          throw new Error('Network response was not ok');
         }
         const result = await response.json();
         setData(result);

@@ -1,16 +1,16 @@
-import React from "react";
-import { StyledComponent } from "../core/types";
-import { css } from "@emotion/css";
+import React from 'react';
+import { StyledComponent } from '../core/types';
+import { css } from '@emotion/css';
 
 type StackProps = {
-  direction: "row" | "column";
+  direction: 'row' | 'column';
   gap?: number;
 } & StyledComponent &
   React.HTMLAttributes<HTMLDivElement>;
 
 const Stack: React.FC<StackProps> = ({
   direction,
-  gap = "1rem",
+  gap = '1rem',
   sx,
   children,
   ...rest
@@ -18,7 +18,7 @@ const Stack: React.FC<StackProps> = ({
   return (
     <div
       style={{
-        display: "flex",
+        display: 'flex',
         flexDirection: direction,
         gap,
       }}

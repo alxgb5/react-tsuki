@@ -1,6 +1,6 @@
-import React from "react";
-import { StyledComponent } from "../core/types";
-import { css } from "@emotion/css";
+import React from 'react';
+import { StyledComponent } from '../core/types';
+import { css } from '@emotion/css';
 
 type GridProps = {
   columns: number;
@@ -12,7 +12,7 @@ const Grid: React.FC<GridProps> = ({ columns, gap, sx, children, ...rest }) => {
   return (
     <div
       style={{
-        display: "grid",
+        display: 'grid',
         gridTemplateColumns: `repeat(${columns}, 1fr)`,
         gap,
       }}
